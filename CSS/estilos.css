@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(img/bg_ts.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+header{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    font-size: 2rem;
+    padding-left: 12%;
+    margin-top: 2%;
+}
+
+.h2{
+    font-size: 3rem;
+}
+.reximg{
+    display: inline-block;
+    width: 40%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+}
+.reximg img{
+    width: 70%;
+    height: auto;
+    margin-top: 10%;
+    margin-bottom: 1%;
+    margin-left: 25%;
+}
+.rextexto {
+    display: inline-block;
+    width: 46%;
+    justify-content: space-around;
+    margin-right: 1%;
+    margin-bottom: 2%;
+    margin-top: 5%;
+}
+.rextexto p{
+    font-size: 1.3rem;
+    margin-bottom: 1%;
+}
+
+.hamimg{
+    display: inline-block;
+    width: 40%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+}
+.hamimg img{
+    width: 70%;
+    height: auto;
+    margin-top: 10%;
+    margin-bottom: 1%;
+    margin-left: 25%;
+}
+.hamtexto{
+    display: inline-block;
+    width: 46%;
+    justify-content: space-around;
+    margin-right: 1%;
+    margin-bottom: 2%;
+    margin-top: 5%;
+}
+.hamtexto p{
+    font-size: 1.3rem;
+    margin-bottom: 1%;
+}
+.woodyimg{
+    display: inline-block;
+    width: 40%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+}
+.woodyimg img{
+    width: 70%;
+    height: auto;
+    margin-top: 10%;
+    margin-bottom: 1%;
+    margin-left: 25%;
+}
+.woodytexto{
+    display: inline-block;
+    width: 46%;
+    justify-content: space-around;
+    margin-right: 1%;
+    margin-bottom: 2%;
+    margin-top: 5%;
+}
+.woodytexto p{
+    font-size: 1.3rem;
+    margin-bottom: 1%;
+}
+
+.footerimg {
+    width: 90%;
+    margin-right: 10%;
+}
+
+.footerimg img{
+    display: flex;
+    justify-content: center;
+    width: 93%;
+    margin-left: 8%;
+}
+
+.footertexto {
+    margin-left: 8%;
+}
